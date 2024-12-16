@@ -114,6 +114,7 @@
   kubectl port-forward -n argocd service/argocd-server 8443:443 &
   ```
 
+
 ---
 
 ## 7. Deleting Kubernetes Cluster
